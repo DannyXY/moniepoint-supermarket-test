@@ -1,7 +1,5 @@
 const { readFileSync, readdirSync } = require('fs');
 
-// allow the provision for this to be provided dynamically
-
 const monthMap = {
   1: 'January',
   2: 'February',
