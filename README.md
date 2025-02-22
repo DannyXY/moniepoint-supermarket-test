@@ -27,5 +27,5 @@ node index.js
 - With parameters
 
 ```bash
-node index.js node index.js ./ test-case
+node index.js ./ test-case
 ```
